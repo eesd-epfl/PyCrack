@@ -35,7 +35,7 @@ Dependencies
 
 License
 ===========
-UQpy is distributed under the MIT license
+PyCrack is distributed under the MIT license
 
 Copyright (C) <2020> <Katrin Beyer>
 
