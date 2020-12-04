@@ -87,4 +87,10 @@ If you are using this software in a work that will be published, please cite thi
 Help and Support
 ===========
 
-
+.. |logo| image:: logo.jpg
+    :scale: 25 %
+    :target: https://gihub.com/SURGroup/UQpy
+    
+    
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/SURGroup/UQpy/master
