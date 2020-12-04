@@ -84,6 +84,6 @@ If you are using this software in a work that will be published, please cite thi
 Help and Support
 ===========
 
-.. |logo| image:: PyCrackLogo2.png
-    :scale: 2 %
-    :target: https://gihub.com/SURGroup/UQpy
+.. |logo| image:: logo3.png
+    :scale: 10 %
+    :target: https://github.com/eesd-epfl/PyCrack
