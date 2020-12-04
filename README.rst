@@ -64,16 +64,16 @@ Using Conda
 
                         conda install --channel  ``...``  ...
 
-Clone your fork of the UQpy repo from your GitHub account to your local disk (to get the latest version): 
+Clone your fork of the PyCrack repo from your GitHub account to your local disk (to get the latest version): 
 
             * ::
 
-                        git clone https://github.com/SURGroup/UQpy.git
-                        cd UQpy/
+                        git clone https://github.com/eesd-epfl/PyCrack.git
+                        cd PyCrack/
                         python setup.py install  (user installation)
                         python setup.py develop (developer installation)
 
-Referencing UQpy
+Referencing PyCrack
 =================
 
 If you are using this software in a work that will be published, please cite this paper:
