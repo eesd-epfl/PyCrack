@@ -1,6 +1,3 @@
-# PyCrack
-PyCrack is a Python toolbox for analysis and quantification of cracks structural systems using optical methods.
-
 *******************************************************
 Crack analysis and quantification with Python (PyCrack)
 *******************************************************
@@ -88,5 +85,5 @@ Help and Support
 ===========
 
 .. |logo| image:: PyCrackLogo2.png
-    :scale: 25 %
+    :scale: 2 %
     :target: https://gihub.com/SURGroup/UQpy
