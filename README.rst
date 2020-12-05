@@ -87,3 +87,6 @@ Help and Support
 .. |logo| image:: PyCrackLogo2.png
     :scale: 10 %
     :target: https://github.com/eesd-epfl/PyCrack
+    
+.. image:: python_powered.png
+ :target: https://www.python.org
