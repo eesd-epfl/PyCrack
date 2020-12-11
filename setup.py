@@ -20,7 +20,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'Intended Audience :: Science/Research',
-        'Topic :: Scientific/Engineering :: Signal Processing',
+        'Topic :: Scientific/Engineering :: Image Processing',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
     ],
