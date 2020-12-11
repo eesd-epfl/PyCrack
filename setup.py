@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pyCrack',
+    name='PyCrack',
     version="0.0.3",
     url='https://github.com/eesd-epfl/PyCrack',
     description="PyCrack is a Python toolbox for analysis and quantification of cracks structural systems using optical methods.",
