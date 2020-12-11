@@ -8,7 +8,7 @@ Crack analysis and quantification with Python (PyCrack)
 
 :Authors: Ketson R. M. dos Santos, Katrin Beyer
 :Contact: ketson.santos@epfl.ch
-:Version: 0.0.1
+:Version: 0.0.6
 
 
 Description
