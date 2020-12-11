@@ -16,7 +16,7 @@ import scipy as sp
 from skimage.morphology import medial_axis, skeletonize
 from sklearn.neighbors import NearestNeighbors
 import scipy.ndimage as spim
-import os
+#import os
 import matplotlib.pyplot as plt
 import skimage.io as sio
 
